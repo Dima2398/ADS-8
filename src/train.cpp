@@ -73,7 +73,7 @@ int Train::getLength() {
                 } else {
                     count = 0;
                 }
-	    } else {
+            } else {
                 continue;
             }
         } while (end);
