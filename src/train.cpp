@@ -70,7 +70,6 @@ int Train::getLength() {
 				if (!cur->light) {
 					countOp = res;
 					return count;
-					end = false;
 				}
 				else {
 					count = 0;
